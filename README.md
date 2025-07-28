@@ -1,4 +1,4 @@
 # ashudemo
 this is my first git repo
 <br>
-author : ashutosh up
+author : ashutosh dyhk
